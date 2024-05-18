@@ -36,5 +36,5 @@ We selected the SuperGLUE LLM benchmark dataset, focusing on the BoolQ dataset, 
 
 ## Summary
 
-We explored the SuperGLUE benchmark and BoolQ dataset, implemented various training techniques, and leveraged LLMs for data augmentation. Despite challenges, we achieved significant insights and performance improvements. Future work will focus on deeper question-level analysis for better accuracy.
+We explored the SuperGLUE benchmark and BoolQ dataset, implemented various training techniques, and leveraged LLMs for data augmentation. Despite challenges, we achieved significant insights and performance improvements.
 
