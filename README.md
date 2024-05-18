@@ -1,4 +1,4 @@
-# BoolQ Dataset Analysis and Classification
+# Super GLUE LLM Benchmark Classification
 
 We selected the SuperGLUE LLM benchmark dataset, focusing on the BoolQ dataset, which involves yes/no questions and corresponding passages. Here's a concise summary of our project:
 
